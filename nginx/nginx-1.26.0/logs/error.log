@@ -1,0 +1,45 @@
+2024/04/30 08:47:08 [error] 50040#49208: *1 CreateFile() "C:\Users\parma\git\cmc\nginx\nginx-1.26.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/04/30 09:42:07 [emerg] 125676#125680: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:43:21 [emerg] 125516#123084: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:45:00 [emerg] 107856#124284: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:45:22 [emerg] 128236#129920: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:45:33 [emerg] 124284#123148: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:46:12 [emerg] 50992#125164: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:50:22 [emerg] 134596#139056: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:53:43 [emerg] 143948#143960: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:57:45 [emerg] 150072#150076: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:57:56 [emerg] 150044#149796: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 09:58:52 [emerg] 151492#144936: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:03:57 [emerg] 146372#161552: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:05:57 [emerg] 163468#163396: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:07:28 [emerg] 164260#164248: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:09:39 [emerg] 155324#164044: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:11:12 [emerg] 168060#169776: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:11:45 [emerg] 170868#170856: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:12:23 [emerg] 171772#171984: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:14:01 [emerg] 172436#154536: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:23:23 [emerg] 182688#182640: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:23:42 [emerg] 182520#182472: "server" directive is not allowed here in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:1
+2024/04/30 10:25:34 [error] 183480#181784: *1 CreateFile() "C:/Users/parma/git/cmc/app/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:7000", referrer: "http://localhost:7000/"
+2024/04/30 10:28:29 [error] 187512#124536: *1 "C:\Users\parma\git\cmc\nginx\nginx-1.26.0/../../../nginx/app/index.php" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:7000"
+2024/04/30 10:28:31 [error] 187512#124536: *1 "C:\Users\parma\git\cmc\nginx\nginx-1.26.0/../../../nginx/app/index.php" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:7000"
+2024/04/30 10:31:33 [error] 189820#187852: *1 "C:\Users\parma\git\cmc\nginx\nginx-1.26.0/../../app/index.php" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:7000"
+2024/04/30 10:31:34 [error] 189820#187852: *1 "C:\Users\parma\git\cmc\nginx\nginx-1.26.0/../../app/index.php" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:7000"
+2024/04/30 10:44:49 [error] 209144#208916: *4 CreateFile() "C:\Users\parma\git\sksr2_source_2022_01_forked\sksr2a.efa.daifuku.com\public/public/Reference/menu" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /public/Reference/menu HTTP/1.1", host: "localhost:7000"
+2024/04/30 10:44:57 [error] 209144#208916: *4 CreateFile() "C:\Users\parma\git\sksr2_source_2022_01_forked\sksr2a.efa.daifuku.com\public/Reference/menu" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Reference/menu HTTP/1.1", host: "localhost:7000"
+2024/04/30 10:45:00 [error] 209144#208916: *4 CreateFile() "C:\Users\parma\git\sksr2_source_2022_01_forked\sksr2a.efa.daifuku.com\public/Reference/menu" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Reference/menu HTTP/1.1", host: "localhost:7000"
+2024/04/30 11:48:27 [emerg] 287268#269440: cannot load certificate "./ssl/certs/localhost/cert.pem": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(./ssl/certs/localhost/cert.pem, r) error:10000080:BIO routines::no such file)
+2024/04/30 11:49:29 [emerg] 288068#281088: cannot load certificate "./ssl/certs/localhost/cert.pem": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(./ssl/certs/localhost/cert.pem, r) error:10000080:BIO routines::no such file)
+2024/04/30 11:50:46 [emerg] 289644#289688: cannot load certificate key "./ssl/conf/certs/localhost/key.pem": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(./ssl/conf/certs/localhost/key.pem, r) error:10000080:BIO routines::no such file)
+2024/04/30 16:54:29 [emerg] 323372#427148: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:54:46 [emerg] 427640#427812: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:55:18 [emerg] 428136#428416: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:56:10 [emerg] 426876#428892: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:57:13 [emerg] 427620#428312: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:58:26 [emerg] 430060#424660: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:58:37 [emerg] 430200#430404: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:58:53 [emerg] 430940#430524: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:59:10 [emerg] 431076#430832: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 16:59:52 [emerg] 431212#431216: directive "server_tokens" is not terminated by ";" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/04/30 17:00:39 [emerg] 366392#433064: no "ssl_certificate" is defined for the "listen ... ssl" directive in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:49
+2024/05/01 14:55:34 [emerg] 65024#65164: unknown log format "ltsv" in C:\Users\parma\git\cmc\nginx\nginx-1.26.0/conf/nginx.conf:87
