@@ -35,7 +35,7 @@ cd nginx
 その後、以下のコマンドを実行して Nginx + php-cgi を起動します。
 
 ```
-nginx\nginx-1.26.0\start-nginx-php.bat
+start-nginx-php.bat
 ```
 
 ## 4. 動作確認
