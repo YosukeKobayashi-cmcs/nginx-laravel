@@ -13,9 +13,15 @@ Nginx の設定ファイル（`nginx.conf`）を編集します。設定ファ�
 nginx\nginx-1.26.0\conf\nginx.conf
 ```
 
-このファイルをテキストエディタで開き、必要な設定を行います。設定内容は、サーバーの要件やアプリケーションの要件によります。
+## 2. PHPの動作フォルダの指定
+起動バッチファイル（`start-nginx-php.bat`）を編集します。
+`phpのインストール先に合わせてパスを変更`のパスを自身の環境に合わせて修正してください。
 
-## 4. Nginx + php-cgi の起動
+```
+nginx\nginx-1.26.0\start-nginx-php.bat
+```
+
+## 3. Nginx + php-cgi の起動
 
 設定が完了したら、コマンドプロンプトを開き、Nginx のディレクトリに移動します。
 
@@ -29,10 +35,10 @@ cd nginx
 その後、以下のコマンドを実行して Nginx + php-cgi を起動します。
 
 ```
-start-nginx-php.bat
+nginx\nginx-1.26.0\start-nginx-php.bat
 ```
 
-## 5. 動作確認
+## 4. 動作確認
 
 Nginx が正しく起動したか確認します。Web ブラウザを開き、以下の URL にアクセスします。
 
@@ -44,7 +50,7 @@ http://localhost
 http://localhost:[変更したポート番号]
 ```
 
-## 6. Nginx + php-cgi の停止
+## 5. Nginx + php-cgi の停止
 
 コマンドプロンプトを開き、Nginx のディレクトリに移動します。
 
